@@ -1,7 +1,7 @@
 # WishList
 
 
-The purpose of this wish list project is to share my concern and  so that we can no only test that this is indeed a problem, but also serve and a mechanism to help connect other developers who would like to collaborate
+The purpose of this wish list project is to share my concern and  so that I can not only test that my wish is indeed a "common" problem, but also serve and a mechanism to help connect with other developers who would like to collaborate.
 
 If you are intested in working towards any of the following "wishes" please connect with me.
 
